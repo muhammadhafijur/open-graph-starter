@@ -1,10 +1,7 @@
-| Facebook | X / Twitter |
-| -------- | ----------- |
-| ![Thumbnail](https://github.com/muhammadhafijur/open-graph-starter/blob/main/images/facebook-thumbnail.png) | ![Thumbnail](https://github.com/muhammadhafijur/open-graph-starter/blob/main/images/twitter-thumbnail.png) |
+| Facebook | X / Twitter | LinkedIn | Discord |
+| -------- | ----------- | -------- | ------- |
+| ![Thumbnail](https://github.com/muhammadhafijur/open-graph-starter/blob/main/images/facebook-thumbnail.png) | ![Thumbnail](https://github.com/muhammadhafijur/open-graph-starter/blob/main/images/twitter-thumbnail.png) | ![Thumbnail](https://github.com/muhammadhafijur/open-graph-starter/blob/main/images/linkedin-thumbnail.png) | ![Thumbnail](https://github.com/muhammadhafijur/open-graph-starter/blob/main/images/discord-thumbnail.png) |
 
-| LinkedIn | Discord |
-| -------- | ------- |
-| ![Thumbnail](https://github.com/muhammadhafijur/open-graph-starter/blob/main/images/linkedin-thumbnail.png) | ![Thumbnail](https://github.com/muhammadhafijur/open-graph-starter/blob/main/images/discord-thumbnail.png) |
 
 # Open Graph Starter
 
