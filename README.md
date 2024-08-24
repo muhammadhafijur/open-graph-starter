@@ -12,7 +12,7 @@ Welcome to **open-graph-starter**! This project provides a simple template to ge
 1. [Usage](#usage)
 2. [Meta Tags](#meta-tags)
 3. [Open Graph Checker](#open-graph-checker)
-
+4. [With OG Tags, Canonical, Schema, Favicon, and Viewport](#with-og-tags-canonical-schema-favicon-and-viewport)
 ## Usage
 
 
